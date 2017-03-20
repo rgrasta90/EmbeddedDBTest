@@ -1,0 +1,7 @@
+com\daos\TestDao.class
+com\controllers\TestServlet.class
+com\model\FlightDetails.class
+com\model\Flight.class
+com\config\SpringWebAppInitializer.class
+com\controllers\SpringController.class
+com\services\TestService.class
